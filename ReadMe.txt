@@ -1,0 +1,1 @@
+The program renames pictures from two directories according to certain rules. It also looks for problematic duplicates.
